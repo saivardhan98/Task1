@@ -14,4 +14,6 @@ for i in a:
 print("cube of the given list:")
 for i in a:
   print(i**3)
-
+print("forthroot of the given list:")
+for i in a:
+  print(i**4)
